@@ -4,6 +4,7 @@ def concatenate_example(string)
 end
 
 def concatenate(string)
+  puts "hello #{string}"
   # use concatenation to format the result to be "Hello <string>!"
 end
 
